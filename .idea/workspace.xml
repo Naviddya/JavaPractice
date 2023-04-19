@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6437a1b5-ab34-4137-a9c8-da1bfaf42c33" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractionExample/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractionExample/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractionExample/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractionExample/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractionExample/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cloning/CopyEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cloning/CopyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/ArrayLIstExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/ArraylistEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/HashMapEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/HashSetEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/LinkHashsetEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/LinkedHashMapEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/ListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Comaparable/ComparableMovieEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Comaparable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConstructoExample/ConstructorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Encapsulation/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Encapsulation/EmployeeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionExample/AirEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionExample/ArithematicExceptionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionExample/ArrayoutofIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionExample/CustomisedExceptionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionExample/CustomisedExecptionExampleImplements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionExample/IllegarlExceptionExplanation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionExample/NPE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionExample/NullPointerExceptionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionExample/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionExample/StudentException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionExample/UserdefinedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryDesignPattern/Email.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryDesignPattern/FactoryNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryDesignPattern/Notfication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryDesignPattern/NotficationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryDesignPattern/PushNotifcation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryDesignPattern/SmsNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FrequencyofArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Immutable/ImmutableEmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Immutable/ImmutableEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Immutable/MainImmutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/FunctionalInterfaceEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface/FunctionalInterfaceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceExample/InterfaceExmple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceExample/Vechile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceExample/in1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/Default/Default.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/Default/default1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/ForeachMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/FuncationalInterfaceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/FuncationalInterfaceMethodReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/Lambda/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/Lambda/BookDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/Lambda/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/Lambda/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/MethodReferenceEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/MethodReferenceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/Static/StaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/StudentInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/UserInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/funcationalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/optional/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/optional/OptionalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/optional/OptionalclassEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/streamApi/Duplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/streamApi/EmpList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/streamApi/EmplistMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/streamApi/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/streamApi/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/streamApi/ProductStrean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/streamApi/StreamApiEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/streamApi/StreamBasicExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/streamApi/StreamMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/streamApi/StreamObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/streamApi/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java8Features/streamApi/StudentImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodCalling/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Movie/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Movie/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Movie/NameComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Movie/RatingComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultithreadingExample/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultithreadingExample/GettingNameOfThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultithreadingExample/MulithreadingProject/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultithreadingExample/MulithreadingProject/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultithreadingExample/MulithreadingProject/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultithreadingExample/MulithreadingProject/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultithreadingExample/MyAnotherThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultithreadingExample/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultithreadingExample/SleepThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultithreadingExample/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultithreadingExample/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultithreadingExample/ThreadExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultithreadingExample/ThreadNaming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultithreadingExample/ThreadOp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultithreadingExample/UsingRunnableInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultithreadingExample/UsingThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectExample/ComplexToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectExample/EqualsMethod_Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectExample/GarbageCollector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectExample/HashCode_Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectExample/ToStringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Helper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SingeltonExample/SingletonEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sort/SortArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringBufferAndBUilder/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringtoArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Superkeywordchild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VariableScope/FinalExmaple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VariableScope/StaticMethodExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VariableScope/StaticVariableExample.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ly6bm6cqbx8ywdg2R43aet4mQ7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "E:/SpringBoot/JavaPractice"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="AirEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionExample.AirEx" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExceptionExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CopyExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cloning.CopyExample" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cloning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Comaparable.Main" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Comaparable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NPE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionExample.NPE" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExceptionExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserdefinedException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionExample.UserdefinedException" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExceptionExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.UserdefinedException" />
+        <item itemvalue="Application.CopyExample" />
+        <item itemvalue="Application.NPE" />
+        <item itemvalue="Application.AirEx" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6437a1b5-ab34-4137-a9c8-da1bfaf42c33" name="Changes" comment="" />
+      <created>1676831056766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676831056766</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Java8Features/streamApi/StudentImpl.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
